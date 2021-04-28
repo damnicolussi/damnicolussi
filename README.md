@@ -6,32 +6,32 @@
 - 🏫 I'm attendind the third year in Highschool
 
 ## Tools I use
-![visual_studio_code](https://github.com/damnicolussi/images/blob/main/visual_studio_code.png)
+![visual_studio_code](/images/visual_studio_code.png)
 &nbsp;
-![dev_cpp](https://github.com/damnicolussi/images/blob/main/dev_cpp.png)
+![dev_cpp](/images/dev_cpp.png)
 &nbsp;
-![github](https://github.com/damnicolussi/images/blob/main/github.png)
+![github](/images/github.png)
 &nbsp;
-![terminal](https://github.com/damnicolussi/images/blob/main/terminal.png)
+![terminal](/images/terminal.png)
 &nbsp;
 . . .
 &nbsp;
 &nbsp;
-![kali_linux](https://github.com/damnicolussi/images/blob/main/kali_linux.png)
+![kali_linux](/images/kali_linux.png)
 &nbsp;
-![windows](https://github.com/damnicolussi/images/blob/main/windows.png)
+![windows](/images/windows.png)
 
 ## Languages I can speak
-![cpp](https://github.com/damnicolussi/images/blob/main/cpp.png)
+![cpp](/images/cpp.png)
 &nbsp;
-![html](https://github.com/damnicolussi/images/blob/main/html.png)
+![html](/images/html.png)
 &nbsp;
-![css](https://github.com/damnicolussi/images/blob/main/css.png)
+![css](/images/css.png)
 &nbsp; &nbsp;
 *and a little bit of* &nbsp;
-![javascript](https://github.com/damnicolussi/images/blob/main/javascript.png)
+![javascript](/images/javascript.png)
 &nbsp;
-![python](https://github.com/damnicolussi/images/blob/main/python.png)
+![python](/images/python.png)
 
 ## GitHub Stats
 [![damnicolussi GitHub stats](https://github-readme-stats.vercel.app/api?username=damnicolussi)](https://github.com/anuraghazra/github-readme-stats)
