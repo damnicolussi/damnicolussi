@@ -1,4 +1,4 @@
-# Welcome to Everyone! 😄
+# Welcome 😄
 
 - 👋 Hi, I’m Damiano Nicolussi
 - 👀 I’m interested in CyberSecurity and Coding/Programming
