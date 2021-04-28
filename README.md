@@ -34,7 +34,7 @@
 ![python](/images/python.png)
 
 ## GitHub Stats
-[![damnicolussi GitHub stats](https://github-readme-stats.vercel.app/api?username=damnicolussi)](https://github.com/anuraghazra/github-readme-stats)
+[![damnicolussi GitHub stats](https://github-readme-stats.vercel.app/api?username=damnicolussi)](https://github.com/damnicolussi)
 
 
 <!---
