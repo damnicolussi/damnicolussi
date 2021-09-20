@@ -2,8 +2,7 @@
 
 - 👋 Hi, I’m Damiano Nicolussi
 - 👀 I’m interested in CyberSecurity and Coding/Programming
-- 🌱 I’m currently learning Javascript and Python
-- 🏫 I'm attendind the third year in Highschool
+- 🏫 I'm attendind the fourth year in Highschool
 
 ## Tools I use
 ![visual_studio_code](/images/visual_studio_code.png)
