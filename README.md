@@ -26,11 +26,11 @@
 ![html](/images/html.png)
 &nbsp;
 ![css](/images/css.png)
+&nbsp;
+![python](/images/python.png)
 &nbsp; &nbsp;
 *and a little bit of* &nbsp;
 ![javascript](/images/javascript.png)
-&nbsp;
-![python](/images/python.png)
 
 ## GitHub Stats
 [![damnicolussi GitHub stats](https://github-readme-stats.vercel.app/api?username=damnicolussi)](https://github.com/damnicolussi)
