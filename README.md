@@ -1,6 +1,5 @@
-# Welcome 😄
+# Hi, I’m Damiano 👋
 
-- 👋 Hi, I’m Damiano Nicolussi
 - 👀 I’m interested in CyberSecurity and Coding/Programming
 - 🏫 I'm a Computer, Communications and Electronic Engineering student @ UniTN
 
