@@ -1,6 +1,6 @@
 # Hi, I’m Damiano 👋
 
-- 👀 I’m interested in CyberSecurity and Coding/Programming
+- 👀 I’m interested in CyberSecurity and Programming
 - 🏫 I'm a Computer, Communications and Electronic Engineering student @ UniTN
 
 ## Tools I use
