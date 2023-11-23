@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TypeScript, React, Next.js**
 
-- 👨‍💻 All of my projects are available at [nicolussi.dev](nicolussi.dev)
+- 👨‍💻 All of my projects are available here and in the future also at [nicolussi.dev](nicolussi.dev)
 
 - 📫 How to reach me **damiano@nicolussi.dev**
 
