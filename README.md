@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Damiano</h1>
 <h3 align="center">Computer, Communication and Electronic Engineering student @ UniTN</h3>
 
-<p align="left"> <a href="https://twitter.com/dxem_nic" target="blank"><img src="https://img.shields.io/twitter/follow/dxem_nic?logo=twitter&style=for-the-badge" alt="dxem_nic" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/dxem_nic" target="blank"><img src="https://img.shields.io/twitter/follow/dxem_nic?logo=twitter&style=for-the-badge" alt="dxem_nic" /></a> </p> -->
 
 - 🔭 I’m currently working on [dae-locator](https://github.com/damnicolussi/dae-locator)
 
